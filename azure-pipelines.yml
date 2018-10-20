@@ -8,7 +8,7 @@ steps:
 - task: Maven@2
   displayName: 'Maven pom.xml'
   inputs:
-    mavenPomFile: '$(Parameters.mavenPOMFile)'
+    mavenPomFile: 'pom.xml'
 
     codeCoverageToolOption: JaCoCo
 
