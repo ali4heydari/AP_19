@@ -14,7 +14,7 @@ steps:
     javaHomeOption: 'JDKVersion'
     jdkVersionOption: '1.10'
     jdkArchitectureOption: 'x64'
-    publishJUnitResults: true
+   # publishJUnitResults: true
     codeCoverageToolOption: JaCoCo
     goals: 'package'
 
