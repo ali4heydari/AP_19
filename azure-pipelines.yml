@@ -9,9 +9,6 @@ steps:
   displayName: 'Maven pom.xml'
   inputs:
     mavenPomFile: 'pom.xml'
-    javaHomeOption: 'JDKVersion'
-    jdkVersionOption: '1.10'
-    jdkArchitectureOption: 'x64'
     publishJUnitResults: true
     testResultsFiles: '**/TEST-*.xml'
     codeCoverageToolOption: JaCoCo
