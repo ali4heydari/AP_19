@@ -1,5 +1,10 @@
-import static org.junit.jupiter.api.Assertions.*;
+import org.junit.Assert;
+import org.junit.Test;
 
-class SampleClassTest {
+public class SampleClassTest {
+    @Test
+    public void testMethod() {
+        Assert.assertTrue(true);
 
+    }
 }
