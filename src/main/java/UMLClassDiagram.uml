@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="92.0" y="158.0">views.animals.Lion</node>
+    <node x="89.99999999999997" y="390.0">controllers.animals.Bear</node>
+    <node x="0.0" y="923.0">models.Farm</node>
+    <node x="191.24499999999998" y="464.0">models.animals.Animal</node>
+    <node x="547.0" y="158.0">views.animals.Dog</node>
+    <node x="462.0" y="158.0">views.animals.Cat</node>
+    <node x="119.0" y="923.0">controllers.Farm</node>
+    <node x="43.44499999999999" y="311.0">controllers.animals.Wild</node>
+    <node x="195.695" y="0.0">views.animals.Animal</node>
+    <node x="663.0" y="543.0">controllers.vehicles.Helicopter</node>
+    <node x="373.0" y="390.0">controllers.animals.Cow</node>
+    <node x="464.0" y="390.0">controllers.animals.Hen</node>
+    <node x="0.0" y="390.0">controllers.animals.Lion</node>
+    <node x="374.5" y="79.0">views.animals.Pet</node>
+    <node x="0.0" y="849.0">models.constructions.workshops.Workshop</node>
+    <node x="181.99999999999997" y="390.0">controllers.animals.Sheep</node>
+    <node x="65.5" y="696.0">models.vehicles.Vehicle</node>
+    <node x="578.0" y="849.0">views.constructions.Store</node>
+    <node x="196.29499999999996" y="232.0">controllers.animals.Animal</node>
+    <node x="43.56999999999999" y="543.0">models.animals.Wild</node>
+    <node x="376.5" y="311.0">controllers.animals.Pet</node>
+    <node x="181.99999999999997" y="622.0">models.animals.Cow</node>
+    <node x="251.0" y="775.0">views.vehicles.Pickup</node>
+    <node x="549.0" y="622.0">models.animals.Hen</node>
+    <node x="146.0" y="849.0">views.constructions.workshops.Workshop</node>
+    <node x="0.0" y="158.0">views.animals.Bear</node>
+    <node x="699.0" y="849.0">models.constructions.Store</node>
+    <node x="182.0" y="158.0">views.animals.Sheep</node>
+    <node x="292.0" y="849.0">controllers.constructions.workshops.Workshop</node>
+    <node x="502.0" y="696.0">views.constructions.WaterWell</node>
+    <node x="366.0" y="543.0">models.animals.Pet</node>
+    <node x="787.0" y="543.0">controllers.vehicles.Pickup</node>
+    <node x="438.0" y="849.0">interfaces.Producer</node>
+    <node x="353.0" y="775.0">views.vehicles.Helicopter</node>
+    <node x="282.0" y="390.0">controllers.animals.Dog</node>
+    <node x="0.0" y="622.0">models.animals.Bear</node>
+    <node x="282.0" y="158.0">views.animals.Hen</node>
+    <node x="728.5" y="464.0">controllers.vehicles.Vehicle</node>
+    <node x="0.0" y="775.0">models.vehicles.Helicopter</node>
+    <node x="44.19499999999999" y="79.0">views.animals.Wild</node>
+    <node x="651.0" y="696.0">models.constructions.WaterWell</node>
+    <node x="371.0" y="158.0">views.animals.Cow</node>
+    <node x="458.0" y="622.0">models.animals.Dog</node>
+    <node x="358.0" y="622.0">models.animals.Sheep</node>
+    <node x="800.0" y="696.0">controllers.constructions.WaterWell</node>
+    <node x="553.0" y="390.0">controllers.animals.Cat</node>
+    <node x="91.99999999999997" y="622.0">models.animals.Lion</node>
+    <node x="124.0" y="775.0">models.vehicles.Pickup</node>
+    <node x="238.0" y="923.0">views.Farm</node>
+    <node x="273.0" y="622.0">models.animals.Cat</node>
+    <node x="820.0" y="849.0">controllers.constructions.Store</node>
+    <node x="305.5" y="696.0">views.vehicles.Vehicle</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="controllers.animals.Hen" target="controllers.animals.Pet">
+      <point x="0.0" y="-14.5" />
+      <point x="498.5" y="370.0" />
+      <point x="421.29999999999995" y="370.0" />
+      <point x="12.800000000000011" y="14.5" />
+    </edge>
+    <edge source="models.vehicles.Pickup" target="models.vehicles.Vehicle">
+      <point x="0.0" y="-14.5" />
+      <point x="165.0" y="750.0" />
+      <point x="130.0" y="750.0" />
+      <point x="21.5" y="14.5" />
+    </edge>
+    <edge source="models.animals.Wild" target="models.animals.Animal">
+      <point x="0.0" y="-14.5" />
+      <point x="79.57" y="518.0" />
+      <point x="212.49499999999998" y="518.0" />
+      <point x="-21.25" y="14.5" />
+    </edge>
+    <edge source="controllers.animals.Dog" target="controllers.animals.Pet">
+      <point x="0.0" y="-14.5" />
+      <point x="317.5" y="370.0" />
+      <point x="395.69999999999993" y="370.0" />
+      <point x="-12.800000000000011" y="14.5" />
+    </edge>
+    <edge source="views.vehicles.Helicopter" target="views.vehicles.Vehicle">
+      <point x="0.0" y="-14.5" />
+      <point x="405.0" y="750.0" />
+      <point x="370.0" y="750.0" />
+      <point x="21.5" y="14.5" />
+    </edge>
+    <edge source="controllers.animals.Sheep" target="controllers.animals.Pet">
+      <point x="0.0" y="-14.5" />
+      <point x="221.99999999999997" y="360.0" />
+      <point x="382.9" y="360.0" />
+      <point x="-25.600000000000023" y="14.5" />
+    </edge>
+    <edge source="models.animals.Cat" target="models.animals.Pet">
+      <point x="0.0" y="-14.5" />
+      <point x="305.5" y="602.0" />
+      <point x="385.19999999999993" y="602.0" />
+      <point x="-12.800000000000011" y="14.5" />
+    </edge>
+    <edge source="models.animals.Pet" target="models.animals.Animal">
+      <point x="0.0" y="-14.5" />
+      <point x="398.0" y="518.0" />
+      <point x="254.99499999999998" y="518.0" />
+      <point x="21.25" y="14.5" />
+    </edge>
+    <edge source="views.animals.Cat" target="views.animals.Pet">
+      <point x="0.0" y="-14.5" />
+      <point x="494.5" y="138.0" />
+      <point x="419.3" y="138.0" />
+      <point x="12.800000000000011" y="14.5" />
+    </edge>
+    <edge source="controllers.animals.Bear" target="controllers.animals.Wild">
+      <point x="0.0" y="-14.5" />
+      <point x="125.99999999999997" y="370.0" />
+      <point x="97.445" y="370.0" />
+      <point x="18.0" y="14.5" />
+    </edge>
+    <edge source="views.animals.Bear" target="views.animals.Wild">
+      <point x="0.0" y="-14.5" />
+      <point x="36.0" y="138.0" />
+      <point x="62.19499999999999" y="138.0" />
+      <point x="-18.0" y="14.5" />
+    </edge>
+    <edge source="controllers.animals.Cow" target="controllers.animals.Pet">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="models.animals.Lion" target="models.animals.Wild">
+      <point x="0.0" y="-14.5" />
+      <point x="126.99999999999997" y="602.0" />
+      <point x="97.57" y="602.0" />
+      <point x="18.0" y="14.5" />
+    </edge>
+    <edge source="controllers.animals.Cat" target="controllers.animals.Pet">
+      <point x="0.0" y="-14.5" />
+      <point x="585.5" y="360.0" />
+      <point x="434.1" y="360.0" />
+      <point x="25.600000000000023" y="14.5" />
+    </edge>
+    <edge source="controllers.vehicles.Helicopter" target="controllers.vehicles.Vehicle">
+      <point x="0.0" y="-14.5" />
+      <point x="715.0" y="518.0" />
+      <point x="750.0" y="518.0" />
+      <point x="-21.5" y="14.5" />
+    </edge>
+    <edge source="models.animals.Sheep" target="models.animals.Pet">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="models.animals.Dog" target="models.animals.Pet">
+      <point x="0.0" y="-14.5" />
+      <point x="493.5" y="602.0" />
+      <point x="410.79999999999995" y="602.0" />
+      <point x="12.800000000000011" y="14.5" />
+    </edge>
+    <edge source="controllers.animals.Pet" target="controllers.animals.Animal">
+      <point x="0.0" y="-14.5" />
+      <point x="408.5" y="286.0" />
+      <point x="260.04499999999996" y="286.0" />
+      <point x="21.25" y="14.5" />
+    </edge>
+    <edge source="models.animals.Hen" target="models.animals.Pet">
+      <point x="0.0" y="-14.5" />
+      <point x="583.5" y="592.0" />
+      <point x="423.6" y="592.0" />
+      <point x="25.600000000000023" y="14.5" />
+    </edge>
+    <edge source="views.animals.Cow" target="views.animals.Pet">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="models.animals.Bear" target="models.animals.Wild">
+      <point x="0.0" y="-14.5" />
+      <point x="36.0" y="602.0" />
+      <point x="61.56999999999999" y="602.0" />
+      <point x="-18.0" y="14.5" />
+    </edge>
+    <edge source="views.animals.Pet" target="views.animals.Animal">
+      <point x="0.0" y="-14.5" />
+      <point x="406.5" y="54.0" />
+      <point x="259.445" y="54.0" />
+      <point x="21.25" y="14.5" />
+    </edge>
+    <edge source="controllers.vehicles.Pickup" target="controllers.vehicles.Vehicle">
+      <point x="0.0" y="-14.5" />
+      <point x="828.0" y="518.0" />
+      <point x="793.0" y="518.0" />
+      <point x="21.5" y="14.5" />
+    </edge>
+    <edge source="models.animals.Cow" target="models.animals.Pet">
+      <point x="0.0" y="-14.5" />
+      <point x="217.49999999999997" y="592.0" />
+      <point x="372.4" y="592.0" />
+      <point x="-25.600000000000023" y="14.5" />
+    </edge>
+    <edge source="controllers.animals.Wild" target="controllers.animals.Animal">
+      <point x="0.0" y="-14.5" />
+      <point x="79.445" y="286.0" />
+      <point x="217.54499999999996" y="286.0" />
+      <point x="-21.25" y="14.5" />
+    </edge>
+    <edge source="views.animals.Hen" target="views.animals.Pet">
+      <point x="0.0" y="-14.5" />
+      <point x="316.5" y="138.0" />
+      <point x="393.7" y="138.0" />
+      <point x="-12.800000000000011" y="14.5" />
+    </edge>
+    <edge source="views.animals.Sheep" target="views.animals.Pet">
+      <point x="0.0" y="-14.5" />
+      <point x="222.0" y="128.0" />
+      <point x="380.9" y="128.0" />
+      <point x="-25.600000000000023" y="14.5" />
+    </edge>
+    <edge source="views.animals.Lion" target="views.animals.Wild">
+      <point x="0.0" y="-14.5" />
+      <point x="127.0" y="138.0" />
+      <point x="98.195" y="138.0" />
+      <point x="18.0" y="14.5" />
+    </edge>
+    <edge source="views.animals.Wild" target="views.animals.Animal">
+      <point x="0.0" y="-14.5" />
+      <point x="80.195" y="54.0" />
+      <point x="216.945" y="54.0" />
+      <point x="-21.25" y="14.5" />
+    </edge>
+    <edge source="views.vehicles.Pickup" target="views.vehicles.Vehicle">
+      <point x="0.0" y="-14.5" />
+      <point x="292.0" y="750.0" />
+      <point x="327.0" y="750.0" />
+      <point x="-21.5" y="14.5" />
+    </edge>
+    <edge source="models.vehicles.Helicopter" target="models.vehicles.Vehicle">
+      <point x="0.0" y="-14.5" />
+      <point x="52.0" y="750.0" />
+      <point x="87.0" y="750.0" />
+      <point x="-21.5" y="14.5" />
+    </edge>
+    <edge source="controllers.animals.Lion" target="controllers.animals.Wild">
+      <point x="0.0" y="-14.5" />
+      <point x="35.0" y="370.0" />
+      <point x="61.44499999999999" y="370.0" />
+      <point x="-18.0" y="14.5" />
+    </edge>
+    <edge source="views.animals.Dog" target="views.animals.Pet">
+      <point x="0.0" y="-14.5" />
+      <point x="582.5" y="128.0" />
+      <point x="432.1" y="128.0" />
+      <point x="25.600000000000023" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.1728395061728398" x="370.8195648272295" y="415.5995397008055" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
