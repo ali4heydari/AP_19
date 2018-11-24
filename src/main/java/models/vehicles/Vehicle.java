@@ -1,4 +1,6 @@
 package models.vehicles;
 
-public abstract class Vehicle {
+import models.Phenom;
+
+public abstract class Vehicle extends Phenom {
 }

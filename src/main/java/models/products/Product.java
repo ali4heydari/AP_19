@@ -1,4 +1,6 @@
 package models.products;
 
-public abstract class Product {
+import models.Phenom;
+
+public abstract class Product extends Phenom {
 }

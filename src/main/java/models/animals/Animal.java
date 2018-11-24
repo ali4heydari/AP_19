@@ -1,4 +1,6 @@
 package models.animals;
 
-public abstract class Animal {
+import models.Phenom;
+
+public abstract class Animal extends Phenom {
 }
